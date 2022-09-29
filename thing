@@ -1,7 +1,6 @@
 #!/bin/bash
 git config --global user.email "meresidamente@hotmail.com"
 git config --global user.name "NexoNeko"
-git config --global credential.helper store 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
 alias gitme="git add -A; git commit -m"Autocommit"; git push"
 alias modme="chmod u+x *"
 git clone http://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@github.com/holbertonschool/Betty.git
